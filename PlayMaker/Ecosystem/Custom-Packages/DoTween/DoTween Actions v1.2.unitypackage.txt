@@ -4,7 +4,7 @@
 "Version":"1.2",
 "UnityMinimumVersion":"5.0",
 "PlayMakerMinimumVersion":"1.8.1",
-"unitypackage":"Dotween/DoTween Actions v1.2.unitypackage",
+"unitypackage":"PlayMaker/Ecosystem/Custom-Packages/DoTween/DoTween Actions v1.2.unitypackage",
 "pingAssetPath":"PlayMaker Custom Actions/Dotween Actions/DotweenUGuiTextTo.cs",
 "keywords":"DoTween, dotween, do tween"
 }
